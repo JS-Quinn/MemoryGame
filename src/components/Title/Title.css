@@ -1,0 +1,22 @@
+.title-section {
+    background-image: url("./background.jpg");
+    background-size: cover;
+    background-size: 100%;
+    width: 100%;
+    min-height: 200px;
+    text-align: center;
+    color: #fff;
+    position: relative;
+    top: 25px;
+    margin-bottom: 20px;
+    padding-top: 10%;
+}
+
+h1, h3, p {
+    font-family: 'Helvetica';
+    text-shadow:
+    -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
